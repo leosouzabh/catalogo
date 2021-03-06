@@ -1,0 +1,14 @@
+.card-product {
+    margin: 12px auto;
+} 
+.body-product{
+    padding: 0.5rem !important;
+}
+.add-to-cart-btn{
+    float: right;
+    font-family: "Arial black";
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #9e3edc;
+    border: 0;
+}
